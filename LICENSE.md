@@ -1,10 +1,10 @@
-You may use any Quick2Wire project under the terms of either the MIT License or the GNU Lesser General Public License (LGPL) Version 3
+You may use this library under the terms of either the MIT License or the GNU Lesser General Public License (LGPL) Version 3
 
-The MIT License is recommended for most projects. It is simple and easy to understand and it places almost no restrictions on what you can do with a Quick2Wire project.
+The MIT License is recommended for most projects. It is simple and easy to understand and it places almost no restrictions on what you can do with the library.
 
-If the LGPL suits your project better you are also free to use a Quick2Wire project under that license.
+If the LGPL suits your project better you are also free to use the library under that license.
 
-You don’t have to do anything special to choose one license or the other and you don’t have to notify anyone which license you are using. You are free to use a Quick2Wire project in commercial projects as long as the copyright header is left intact.
+You don’t have to do anything special to choose one license or the other and you don’t have to notify anyone which license you are using. You are free to use this library in commercial projects as long as the copyright header is left intact.
 
 Licenses
 
