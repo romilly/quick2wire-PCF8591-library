@@ -1,5 +1,7 @@
 # PCF8591 8-bit A/D and D/A converter library and test suite
 
+version 0.1 - this is a work in progres: neither the library nor the test have been written yet!
+
 This is an Arduino library and test sketch for [nxp](http://www.nxp.com/)'s [PCF8591](http://www.nxp.com/documents/data_sheet/PCF8591.pdf) 8-bit A/D and D/A converter.
 
 It requires Arduino 1.0 or later. If you want to use it with Arduino 22 you will need to modify some of the Wire calls.
